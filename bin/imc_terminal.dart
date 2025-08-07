@@ -1,6 +1,3 @@
-import 'dart:ffi';
-
-import 'package:imc_terminal/imc_terminal.dart' as imc_terminal;
 import 'package:imc_terminal/imc_terminal.dart';
 
 void main(List<String> arguments) {
