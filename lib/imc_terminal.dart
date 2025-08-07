@@ -87,7 +87,7 @@ double _comecodouble(String tipo){
         print("Digite apenas numeros, tente novamente. ");
       }
     }else{
-      print("Digi um numero");
+      print("Digite um numero");
     }
   }
   
